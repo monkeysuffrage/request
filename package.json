@@ -45,7 +45,7 @@
     "qs": "~6.5.1",
     "safe-buffer": "^5.1.1",
     "tough-cookie": "~2.3.3",
-    "tunnel-agent": "^0.6.0",
+    "tunnel-agent": "git://github.com/monkeysuffrage/tunnel-agent",
     "uuid": "^3.1.0"
   },
   "scripts": {
